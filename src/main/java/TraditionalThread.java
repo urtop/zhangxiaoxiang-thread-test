@@ -32,5 +32,6 @@ public class TraditionalThread {
             }
         });
         thread1.start();
+
     }
 }
